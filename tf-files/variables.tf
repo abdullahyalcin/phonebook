@@ -1,15 +1,15 @@
 variable "git-name" {
-  default = "abdullahyalcin"
+  default = "your username"
 }
 
 variable "git-token" {
-  default = "y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"
+  default = "your token"
 }
 
 variable "key-name" {
-  default = "mackey"
+  default = "your key pair"
 }
 
 variable "hosted-zone" {
-  default = "abdullahyalcin.com"
+  default = "your hosted zone"
 }
